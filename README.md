@@ -33,7 +33,7 @@
 - **地圖**: 呈現各國家的營收表現。
 - **長條圖**: 比較不同產品類別的銷量與訂單取消率。
 - **折線圖**: 追蹤用戶回購率的趨勢變化。
-![Tableau dashboard](https://github.com/Debbylihii/kkday-data-analysis-project/blob/29340ee9d05e53c78103bcac11af41c8abab8020/Add%20Tableau%20dashboard%20screenshot)
+![Tableau dashboard](https://github.com/Debbylihii/travel-website-data-analysis-project/blob/bbf60f97c4d7ef0e5c5e7491048fe99bcff48293/Add%20Tableau%20dashboard%20screenshot)
 
 ### 4. 洞察與分析
 - **營收主要集中在少數幾個國家 (地圖)**
