@@ -1,6 +1,22 @@
 # travel-website-data-analysis-project
 # 旅遊網站營運數據分析專案
 
+## 專案架構
+travel-website-data-analysis-project/
+├── README.md
+├── data/
+│   └── output/
+│       ├── cancellation_rate_by_category.csv
+│       ├── country_spending_analysis_enhanced.csv
+│       ├── repurchase_rate_by_month.csv
+│       └── top_products_by_category.csv
+├── docs/
+│   └── tableau_dashboard.png
+├── sql/
+│   └── project_analysis.sql
+└── src/
+    └── generate_data.py
+
 ## 專案介紹
 - 本專案使用 Python 撰寫腳本，透過 Faker 等函式庫來生成大量的模擬旅遊網站訂單數據。
 - 在 Python 中與 MySQL 資料庫連線，並利用 SQL 進行資料清理與分析。
