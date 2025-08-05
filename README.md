@@ -2,6 +2,7 @@
 # 旅遊網站營運數據分析專案
 
 ## 專案架構
+```
 travel-website-data-analysis-project/
 ├── README.md
 ├── data/
@@ -16,6 +17,7 @@ travel-website-data-analysis-project/
 │   └── project_analysis.sql
 └── src/
     └── generate_data.py
+```
 
 ## 專案介紹
 - 本專案使用 Python 撰寫腳本，透過 Faker 等函式庫來生成大量的模擬旅遊網站訂單數據。
