@@ -43,7 +43,7 @@ travel-website-data-analysis-project/
 - **回購率分析**: 追蹤不同用戶群（cohort）的回購率變化，評估用戶黏著度。
 - **訂單取消率分析**: 找出哪些產品類別的訂單取消率最高，為營運優化提供依據。
 
-> **[點此查看所有 SQL 腳本](sql/project_analysis.sql)**
+> **[點此查看所有 SQL 資料庫](sql/project_analysis.sql)**
 
 ### 3. Tableau 互動式儀表板
 我將 SQL 查詢結果匯出為 CSV 檔案，並在 Tableau 中建立了一個互動式儀表板。
