@@ -1,8 +1,7 @@
 -- 旅遊網站營運數據分析專案 SQL 腳本
--- 這個檔案包含了從資料庫建立、假資料生成到核心數據分析的所有 SQL 查詢。
+-- 這個檔案包含了從資料庫建立、虛擬資料生成到核心數據分析的所有 SQL 查詢。
 
 -- Step 1: 資料庫與資料表設定
--- 如果資料庫已存在，先刪除並重建，確保環境乾淨。
 DROP DATABASE IF EXISTS travel_website_project;
 CREATE DATABASE travel_website_project;
 USE travel_website_project;
@@ -49,7 +48,6 @@ CREATE TABLE order_items (
 
 
 -- Step 2: 核心分析查詢
--- 以下查詢將用於提取關鍵數據，並匯出為 Tableau 儀表板的資料來源。
 
 -- 查詢 A: 各類別最熱銷的產品
 -- 目的: 找出每個產品類別中，銷量最高的單一產品。
