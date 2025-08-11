@@ -25,12 +25,6 @@ travel-website-data-analysis-project/
 - 使用 Tableau 建立互動式儀表板，以視覺化方式呈現核心商業指標。
 - 透過本專案，我展現從資料庫設計、數據處理到最終商業洞察的全方位資料分析能力。
 
-## 使用工具
-- **資料庫**: MySQL
-- **數據生成**: Python (Faker, mysql.connector)
-- **數據分析**: SQL
-- **視覺化**: Tableau
-
 ## 專案內容
 ### 1. 資料庫建構與數據生成
 - **資料庫設計**: 專案包含 `users`, `products`, `orders`, `order_items` 四個資料表，並透過外鍵建立關聯。
